@@ -89,7 +89,7 @@ export default function Nav() {
             onClick={(e) => scrollTo(e, '#footer')}
             className="text-sm font-medium text-[#d97706] transition-colors hover:text-[#b45309]"
           >
-            Let&apos;s Talk
+            Contact
           </a>
         </div>
 

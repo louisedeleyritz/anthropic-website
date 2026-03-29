@@ -31,7 +31,7 @@ export default function Ideas() {
         </div>
         <h2 className="text-3xl font-bold text-gray-900 md:text-4xl">Ideas</h2>
         <p className="mt-3 text-gray-500">
-          Writing I&apos;ve done on AI reliability, data governance, and the trust problem.
+          On AI reliability, data governance, and the trust problem.
         </p>
 
         {/* Core thesis callout */}
@@ -83,7 +83,7 @@ export default function Ideas() {
 
         {/* Claude annotation */}
         <p className="mt-6 font-mono text-xs text-gray-400">
-          100+ articles published. these are the ones that matter most.
+          from 100+ published articles.
         </p>
       </div>
     </section>

@@ -5,28 +5,28 @@ export default function WhyAnthropic() {
       place: "LSE, London",
       dotColor: "bg-amber-500",
       description:
-        "Politics, Philosophy and Economics. Learned to think in systems and argue with precision. Not a traditional SE path, but the foundation for everything that came after.",
+        "Politics, Philosophy and Economics. Systems thinking, structured argument, and a lot of writing.",
     },
     {
       year: "2020-2022",
       place: "CentraleSupelec / ESSEC, Paris",
       dotColor: "bg-[#3b82f6]",
       description:
-        "Master's in Data Sciences. ML, deep learning, Spark, Hadoop. This is where I went from 'interested in data' to 'building with data.' The technical foundation I was missing.",
+        "Master's in Data Sciences and Business. ML, deep learning, Spark, Hadoop.",
     },
     {
       year: "2023-2024",
       place: "CastorDoc, New York",
       dotColor: "bg-[#059669]",
       description:
-        "Data catalog startup. Wrote 100+ articles on data governance and AI reliability. Realized that AI hallucination is not an AI problem. It's a context problem. Semantic layers, data lineage, governed self-service: the prerequisites for trustworthy AI.",
+        "Data catalog startup. Wrote 100+ articles on data governance and AI reliability. Came away convinced that AI hallucination is a context problem, not a model problem.",
     },
     {
       year: "2024-Present",
       place: "Snowflake, London",
       dotColor: "bg-amber-500",
       description:
-        "Technical sales for startups across EMEA. This is where Claude entered my life. Cortex Code (Snowflake's Claude Code fork) changed everything: demos that took days now take minutes. I built 30+ production skills, became the UK AI Champion, and watched startups do the work of 20-person teams.",
+        "Technical sales for startups across EMEA. Built 30+ Claude Code skills for pre-sales automation, became the UK AI Champion. Cortex Code (Snowflake's Claude Code fork) is where I learned what it takes to put AI in a customer's hands.",
     },
   ];
 
@@ -42,7 +42,7 @@ export default function WhyAnthropic() {
             Why Anthropic
           </h2>
           <p className="mt-4 text-lg text-zinc-500">
-            Every step of my career has been moving toward this.
+            How I got here.
           </p>
         </div>
 
@@ -93,10 +93,9 @@ export default function WhyAnthropic() {
                   </span>
                 </div>
                 <p className="mt-2 text-[15px] leading-relaxed text-zinc-600">
-                  I&apos;ve seen what Claude does for startups from the outside.
-                  Now I want to do this at the source. Help founders adopt AI
-                  that actually works, with the depth and care that comes from
-                  building the tools myself.
+                  I&apos;ve spent a year putting Claude in the hands of
+                  startups from the outside. I&apos;d like to do it where the
+                  tools are built.
                 </p>
               </div>
             </div>
@@ -105,7 +104,7 @@ export default function WhyAnthropic() {
 
         {/* Claude annotation */}
         <p className="mt-16 text-xs font-mono text-zinc-400 italic">
-          career arc, told by the person who lived it
+          the path, briefly
         </p>
       </div>
     </section>

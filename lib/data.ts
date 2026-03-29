@@ -5,16 +5,16 @@ export const caseStudies = [
     dealSize: "$55K",
     title: "Series A Payments Startup",
     summary:
-      "Built a live AI analytics demo integrating two competing platforms. Won through a 2-hour hands-on lab that put AI directly in the customer's hands.",
+      "Built a live AI analytics demo integrating two competing platforms. Won through a 2-hour hands-on lab on the customer's own data.",
     tags: ["AI Analytics", "Competitive Win", "Hands-On Lab"],
     challenge:
       "Fintech startup evaluating analytics platforms. The cloud provider's native tooling had the incumbent advantage.",
     whatIBuilt:
-      "A 2-hour hands-on lab on Cortex Code (powered by Claude Code). The customer built alongside me, experiencing AI-powered analytics on their own data in real time.",
+      "A 2-hour hands-on lab on Cortex Code (powered by Claude Code). The customer built alongside me, working with AI-powered analytics on their own data in real time.",
     outcome:
-      "$55K closed. Beat the cloud-native pitch. The hands-on lab, not a slide deck, was the deciding factor.",
+      "$55K closed. The hands-on lab, not a slide deck, was the deciding factor.",
     saRelevance:
-      "Putting AI directly in a customer's hands and letting them build. Exactly the work an SA does for startups adopting Claude.",
+      "Putting AI directly in a customer's hands and letting them build. The same work an SA does for startups adopting Claude.",
   },
   {
     id: "entertainment",
@@ -39,14 +39,14 @@ export const caseStudies = [
     dealSize: "\u20ac170K",
     title: "French Enterprise Insurer",
     summary:
-      'Customer 360 architecture design. Beat a major hyperscaler\'s analytics platform. Their Head of Data called the AI tooling a "game-changer."',
+      "Customer 360 architecture design. Won against a major hyperscaler's analytics platform.",
     tags: ["Customer 360", "Architecture", "AI"],
     challenge:
       "French insurer needed a unified customer view across multiple source systems. Evaluating two major platforms.",
     whatIBuilt:
       "Complete Customer 360 architecture: multi-source ingestion, identity resolution, governed analytics layer with AI capabilities.",
     outcome:
-      "\u20ac170K closed. Beat the hyperscaler's platform on architecture quality and AI capabilities.",
+      "\u20ac170K closed. Won on architecture quality and AI capabilities.",
     saRelevance:
       "Designing production architectures for enterprise customers. Bilingual delivery (English + French) across EMEA.",
   },

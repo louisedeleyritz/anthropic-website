@@ -22,7 +22,7 @@ export default function CaseStudies() {
             Case Studies
           </h2>
           <p className="mt-4 text-lg text-zinc-500">
-            Real deals, real outcomes. Anonymized for confidentiality.
+            Selected deals, anonymized for confidentiality.
           </p>
         </div>
 
@@ -49,15 +49,15 @@ export default function CaseStudies() {
                       {cs.industry}
                     </span>
 
-                    {/* Deal size */}
-                    <p className="text-2xl font-bold text-zinc-900">
-                      {cs.dealSize}
-                    </p>
-
                     {/* Title */}
-                    <h3 className="mt-1 text-base font-semibold text-zinc-800">
+                    <h3 className="text-base font-semibold text-zinc-800">
                       {cs.title}
                     </h3>
+
+                    {/* Deal size */}
+                    <p className="mt-1 text-sm font-medium text-zinc-500">
+                      {cs.dealSize}
+                    </p>
 
                     {/* Summary */}
                     <p className="mt-2 text-sm leading-relaxed text-zinc-500">
@@ -176,7 +176,7 @@ export default function CaseStudies() {
 
         {/* Claude annotation */}
         <p className="mt-12 text-xs font-mono text-zinc-400 italic">
-          4 of 14 documented wins shown. details anonymized.
+          4 of 14 deals. anonymized.
         </p>
       </div>
     </section>

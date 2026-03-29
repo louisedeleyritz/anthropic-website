@@ -26,7 +26,7 @@ export default function SkillsPortfolio() {
         <div className="mb-4">
           <span className="font-mono text-sm font-semibold text-[#d97706]">03</span>
         </div>
-        <h2 className="text-3xl font-bold text-gray-900 md:text-4xl">Skills Portfolio</h2>
+        <h2 className="text-3xl font-bold text-gray-900 md:text-4xl">Skills</h2>
         <p className="mt-3 text-gray-500">
           30+ Claude Code skills I built and use daily. Open source on GitHub.
         </p>

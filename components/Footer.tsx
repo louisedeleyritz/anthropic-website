@@ -6,11 +6,10 @@ export default function Footer() {
       <div className="mx-auto max-w-6xl">
         {/* CTA */}
         <h2 className="text-2xl font-bold text-white md:text-3xl">
-          Let&apos;s talk about what I&apos;d build at Anthropic.
+          Get in touch.
         </h2>
         <p className="mt-4 max-w-2xl text-gray-400">
-          I&apos;ve spent the last year putting Claude in the hands of startups. I&apos;d love to do
-          that full-time, at the source.
+          Currently exploring opportunities at Anthropic. Happy to talk about any of this.
         </p>
 
         {/* Email button */}
@@ -92,7 +91,7 @@ export default function Footer() {
         {/* Final annotation bar */}
         <div className="mt-16 flex items-center justify-between border-t border-gray-800 pt-6">
           <p className="font-mono text-xs text-gray-600">
-            designed &amp; built with Claude Opus 4.6 in a single session
+            built with Claude Opus 4.6
           </p>
           <p className="font-mono text-xs text-gray-600">2026</p>
         </div>
